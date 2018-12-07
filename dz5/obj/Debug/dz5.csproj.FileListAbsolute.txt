@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Source\Repos\dz5\dz5\bin\Debug\dz5.exe.config
+C:\Users\Дмитрий\Source\Repos\dz5\dz5\bin\Debug\dz5.exe
+C:\Users\Дмитрий\Source\Repos\dz5\dz5\bin\Debug\dz5.pdb
+C:\Users\Дмитрий\Source\Repos\dz5\dz5\obj\Debug\dz5.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Source\Repos\dz5\dz5\obj\Debug\dz5.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Source\Repos\dz5\dz5\obj\Debug\dz5.exe
+C:\Users\Дмитрий\Source\Repos\dz5\dz5\obj\Debug\dz5.pdb
